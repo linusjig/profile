@@ -79,6 +79,7 @@ table {
 .book_pic {
   border-radius: 4%;
   box-shadow: 3px 3px 1px rgb(235, 235, 235);
+  margin: 10px;
 }
 
 #shannon {
