@@ -48,35 +48,35 @@ ul li {
 }
 
 .card_prof {
-  background-color: rgba(244, 253, 205, 1);
+  background-color: rgb(245, 245, 245);
   border-radius: 5%;
   padding: 30px;
   text-align: center;
   margin-top: 40;
   margin-bottom: 40px;
-  box-shadow: 2px 2px 1px #E3F7BA;
+  box-shadow: 2px 2px 1px rgb(235, 235, 235);
 }
 
 .card {
-  background-color: rgba(244, 253, 205, 1);
+  background-color: rgb(245,245,245);
   border-radius: 5%;
   padding: 20px;
   text-align: center;
   margin-bottom: 40px;
-  box-shadow: 2px 2px 1px #E3F7BA;
+  box-shadow: 2px 2px 1px rgb(235, 235, 235);
 }
 
 #profile {
   border-radius: 50%;
-  box-shadow: 3px 3px 1px #E3F7BA;
+  box-shadow: 3px 3px 1px rgb(235, 235, 235);
 }
 
 .book_pic {
   border-radius: 4%;
-  box-shadow: 3px 3px 1px #E3F7BA;
+  box-shadow: 3px 3px 1px rgb(235, 235, 235);
 }
 
 #shannon {
   border-radius: 50%;
-  box-shadow: 3px 3px 1px #E3F7BA;
+  box-shadow: 3px 3px 1px rgb(235, 235, 235);
 }
