@@ -42,6 +42,10 @@ ul li {
   display: inline-block;
 }
 
+table {
+  text-align: center;
+}
+
 .container {
   width: 800px;
   margin: 0 auto; /* Automatically set left/right margins */
