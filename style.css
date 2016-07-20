@@ -1,0 +1,73 @@
+body {
+  background: rgba(127, 218, 137, 0.25);
+  color: rgb(30, 30, 30);
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+h1 {
+  color: #041122;
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+}
+
+h2 {
+  color: rgba(4, 17, 34, 0.95);
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+h3 {
+  color: rgba(4, 17, 34, 0.9);
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #259073;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #7FDA89;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  display: inline-block;
+}
+
+.container {
+  width: 800px;
+  margin: 0 auto; /* Automatically set left/right margins */
+}
+
+.card_prof {
+  background-color: rgba(244, 253, 205, 1);
+  border-radius: 5%;
+  padding: 30px;
+  text-align: center;
+  margin-top: 40;
+  margin-bottom: 40px;
+}
+
+.card {
+  background-color: rgba(244, 253, 205, 1);
+  border-radius: 5%;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+#profile {
+  border-radius: 50%;
+}
+
+.book_pic {
+  border-radius: 4%;
+}
