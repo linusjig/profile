@@ -54,6 +54,7 @@ ul li {
   text-align: center;
   margin-top: 40;
   margin-bottom: 40px;
+  box-shadow: 2px 2px 1px #E3F7BA;
 }
 
 .card {
@@ -62,12 +63,20 @@ ul li {
   padding: 20px;
   text-align: center;
   margin-bottom: 40px;
+  box-shadow: 2px 2px 1px #E3F7BA;
 }
 
 #profile {
   border-radius: 50%;
+  box-shadow: 3px 3px 1px #E3F7BA;
 }
 
 .book_pic {
   border-radius: 4%;
+  box-shadow: 3px 3px 1px #E3F7BA;
+}
+
+#shannon {
+  border-radius: 50%;
+  box-shadow: 3px 3px 1px #E3F7BA;
 }
